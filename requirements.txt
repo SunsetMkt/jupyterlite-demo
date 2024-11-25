@@ -11,7 +11,6 @@ jupyterlite-pyodide-kernel==0.4.2
 jupyterlite-javascript-kernel==0.3.0
 
 # Language support (optional)
-jupyterlab-language-pack-ach-UG
 jupyterlab-language-pack-ar-SA
 jupyterlab-language-pack-ca-ES
 jupyterlab-language-pack-cs-CZ
