@@ -42,7 +42,7 @@ jupyterlab-language-pack-zh-CN
 jupyterlab-language-pack-zh-TW
 
 # P5 kernel (optional)
-jupyterlite-p5-kernel==0.1.0
+jupyterlite-p5-kernel==0.1.1
 
 # JupyterLab: Fasta file renderer (optional)
 jupyterlab-fasta>=3.3.0,<4
