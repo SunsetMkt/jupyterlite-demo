@@ -35,7 +35,6 @@ jupyterlab-language-pack-pl-PL
 jupyterlab-language-pack-pt-BR
 jupyterlab-language-pack-ro-RO
 jupyterlab-language-pack-ru-RU
-jupyterlab-language-pack-si-LK
 jupyterlab-language-pack-tr-TR
 jupyterlab-language-pack-uk-UA
 jupyterlab-language-pack-vi-VN
